@@ -20,7 +20,7 @@
     "0B6D8AAAD0FF4C01212E6AB2D110619FA685281D" : "BridgeAppSDK\/BridgeSDK\/Submodules\/CMSSupport\/",
     "82DF43EF5CA016D15C41E0AF1AF686E9973475B7" : "BridgeAppSDK\/BridgeSDK\/Submodules\/ZipZap\/",
     "DEDD58F0BAF28034A74179391A23AC2E0219CDC3" : "BridgeAppSDK\/BridgeSDK\/Submodules\/RNCryptor\/",
-    "A312D9A806D0D2A0881387E6F394BB84B63BC0CD" : "BridgeAppSDK\/ResearchUXFactory\/"
+    "A312D9A806D0D2A0881387E6F394BB84B63BC0CD" : "BridgeAppSDK\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "BridgeAppSDK",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
